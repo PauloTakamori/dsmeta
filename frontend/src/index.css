@@ -16,3 +16,13 @@ a, a:hover, a:visited {/*'houver' - quando passa o mouse em cima e 'visited' - q
     color: unset; /*deixar cor do link no padrão branco.*/
     text-decoration: none; /*remove o sublinhado*/
 }
+
+.dsmeta-container {
+  width: 100%;
+  max-width: 900px; /*largura maxíma do div */
+  margin: 0 auto; /*macete para alinhar o retângulo no centro*/
+}
+
+#sales {
+  padding: 40px 10px;
+}
